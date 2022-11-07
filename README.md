@@ -11,11 +11,4 @@
 |:-------------:| :-----:|:-----:|
 | Edgar Josué Benedetto Godoy | `0801-1997-23600` | [Gmail](mailto:edgar.benedetto@baccredomatic.hn) |
 
-### Prueba final
-[Probar aplicación](https://productsbydepartment.herokuapp.com/)
-
 </div>
-
-
-_____
-_____
